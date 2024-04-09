@@ -1,4 +1,6 @@
 /* eslint-disable no-unused-vars */
+import React from "react";
+import { IImage } from "./image";
 
 // ====== USER PARAMS
 declare type CreateUserParams = {

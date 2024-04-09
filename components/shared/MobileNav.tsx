@@ -4,8 +4,7 @@
 import React from "react";
 
 import { Sheet, SheetContent, SheetTrigger} from "@/components/ui/sheet";
-import { SignIn, SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
-import { Sign } from "crypto";
+import { SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
 import Image from "next/image";
 import Link from "next/link";
 import { navLinks } from "@/constants";
