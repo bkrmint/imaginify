@@ -9,5 +9,8 @@
   ],
   "rules": {
     "react/prop-types": "off"
+  },
+  "globals": {
+    "NodeJS": true
   }
 }
